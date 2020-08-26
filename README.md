@@ -13,3 +13,8 @@ const Harris: Person = {
   funFact: 'I have been to 40 countries 🌍'
 }
 ```
+
+## Projects
+
+- Personal website: https://harrisgeo.me
+- Blog post checklist: https://harrisgeo88.github.io/blog-post-checklist/
