@@ -25,9 +25,10 @@ const Harris: Person = {
 
 
 
+
 ## Recent articles:
-- [Discord talk](https://www.harrisgeo.me/blogs/title)
 - [Moving to your next developer job. The right way](https://www.harrisgeo.me/blogs/moving-to-your-next-developer-job-the-right-way)
 - [The system design interview: An introduction to system architecture](https://www.harrisgeo.me/blogs/the-system-design-interview-an-introduction-to-system-architecture)
 - [The Specialist, the Generalist and the realist](https://www.harrisgeo.me/blogs/the-specialist-the-generalist-and-the-realist)
 - [The Coding Interview](https://www.harrisgeo.me/blogs/the-coding-interview)
+- [Mentoring Devs](https://www.harrisgeo.me/blogs/mentoring-devs)
