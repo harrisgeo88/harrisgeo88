@@ -23,6 +23,7 @@ const Harris: Person = {
 
 
 
+
 ## Recent articles:
 - [Discord talk](https://www.harrisgeo.me/blogs/title)
 - [Moving to your next developer job. The right way](https://www.harrisgeo.me/blogs/moving-to-your-next-developer-job-the-right-way)
