@@ -1,0 +1,15 @@
+{
+  "name": "harrisgeo88",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "repository": "git@github.com:harrisgeo88/harrisgeo88.git",
+  "author": "Harris Geo <harrisgeo1988@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "feed": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^0.20.0"
+  }
+}
