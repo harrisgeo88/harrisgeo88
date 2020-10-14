@@ -30,6 +30,7 @@ const Harris: Person = {
 
 
 
+
 ## Recent articles:
 - [Moving to your next developer job. The right way](https://www.harrisgeo.me/blogs/moving-to-your-next-developer-job-the-right-way)
 - [The system design interview: An introduction to system architecture](https://www.harrisgeo.me/blogs/the-system-design-interview-an-introduction-to-system-architecture)
