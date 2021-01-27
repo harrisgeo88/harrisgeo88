@@ -20,8 +20,8 @@ const Harris: Person = {
 - Blog post checklist: https://harrisgeo88.github.io/blog-post-checklist/
 
 ## Recent articles:
+- [Docker in plain English part 1. Building and running Docker containers](https://www.harrisgeo.me/blogs/docker-in-plain-english-part-1-building-and-running-docker-containers)
 - [How was 2020 for me, what I've learned and what to look for in 2021](https://www.harrisgeo.me/blogs/how-was-2020-for-me-what-i-ve-learned-and-what-to-look-for-in-2021)
 - [How To Use Github Actions To Automate Your Github Profile Readme With Your Latest Blog Posts](https://www.harrisgeo.me/blogs/how-to-use-github-actions-to-automate-your-github-profile-readme-with-your-latest-blog-posts)
 - [Deploy your first Serverless function in 5 minutes with Cloudflare Workers](https://www.harrisgeo.me/blogs/deploy-your-first-serverless-function-in-5-minutes-with-cloudflare-workers)
 - [Understanding the test pyramid](https://www.harrisgeo.me/blogs/understanding-the-test-pyramid)
-- [Stop worrying about the little things](https://www.harrisgeo.me/blogs/stop-worrying-about-the-little-things)
