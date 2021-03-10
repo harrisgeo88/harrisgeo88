@@ -20,8 +20,8 @@ const Harris: Person = {
 - Blog post checklist: https://harrisgeo88.github.io/blog-post-checklist/
 
 ## Recent articles:
-- [Setup Your AWS Free Tier Alerts and avoid any surpirse charges](https://www.harrisgeo.me/blogs/setup-your-aws-free-tier-alerts-and-avoid-any-surpirse-charges)
+- [AWS Learn In Public Week 2 Load Balancers And Auto Scaling](https://www.harrisgeo.me/blogs/aws-learn-in-public-week-2-load-balancers-and-auto-scaling)
+- [Setup Your AWS Free Tier Alerts and avoid any surprise charges](https://www.harrisgeo.me/blogs/setup-your-aws-free-tier-alerts-and-avoid-any-surprise-charges)
 - [AWS Learn In Public Week 1, The EC2 Basics](https://www.harrisgeo.me/blogs/aws-learn-in-public-week-1-the-ec2-basics)
 - [Docker in plain English part 1. Building and running Docker containers](https://www.harrisgeo.me/blogs/docker-in-plain-english-part-1-building-and-running-docker-containers)
 - [How was 2020 for me, what I've learned and what to look for in 2021](https://www.harrisgeo.me/blogs/how-was-2020-for-me-what-i-ve-learned-and-what-to-look-for-in-2021)
-- [How To Use Github Actions To Automate Your Github Profile Readme With Your Latest Blog Posts](https://www.harrisgeo.me/blogs/how-to-use-github-actions-to-automate-your-github-profile-readme-with-your-latest-blog-posts)
