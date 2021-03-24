@@ -20,8 +20,8 @@ const Harris: Person = {
 - Blog post checklist: https://harrisgeo88.github.io/blog-post-checklist/
 
 ## Recent articles:
+- [AWS Learn In Public Week 4, Route53 and VPC](https://www.harrisgeo.me/blogs/aws-learn-in-public-week-4-route53-and-vpc)
 - [AWS Learn In Public Week 3, EBS, EFS, RDS and ElastiCache](https://www.harrisgeo.me/blogs/aws-learn-in-public-week-3-ebs-efs-rds-and-elasticache)
 - [AWS Learn In Public Week 2, Load Balancers And Auto Scaling](https://www.harrisgeo.me/blogs/aws-learn-in-public-week-2-load-balancers-and-auto-scaling)
 - [Setup Your AWS Free Tier Alerts and avoid any surprise charges](https://www.harrisgeo.me/blogs/setup-your-aws-free-tier-alerts-and-avoid-any-surprise-charges)
 - [AWS Learn In Public Week 1, The EC2 Basics](https://www.harrisgeo.me/blogs/aws-learn-in-public-week-1-the-ec2-basics)
-- [Docker in plain English part 1. Building and running Docker containers](https://www.harrisgeo.me/blogs/docker-in-plain-english-part-1-building-and-running-docker-containers)
