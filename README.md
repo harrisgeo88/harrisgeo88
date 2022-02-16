@@ -20,8 +20,8 @@ const Harris: Person = {
 - Blog post checklist: https://harrisgeo88.github.io/blog-post-checklist/
 
 ## Recent articles:
+- [Understanding The SQS Redrive Policy](https://www.harrisgeo.me/blogs/understanding-the-sqs-redrive-policy)
 - [AWS Learn In Public Week 9, CloudFormation And CloudFront](https://www.harrisgeo.me/blogs/aws-learn-in-public-week-9-cloudformation-and-cloudfront)
 - [AWS Learn In Public Week 8, Elastic Beanstalk](https://www.harrisgeo.me/blogs/aws-learn-in-public-week-8-elastic-beanstalk)
 - [AWS Learn In Public Week 7, ECR, ECR and Fargate](https://www.harrisgeo.me/blogs/aws-learn-in-public-week-7-ecs-ecr-and-fargate)
 - [AWS Learn In Public Week 6, Advanced S3, Glacier And Athena](https://www.harrisgeo.me/blogs/aws-learn-in-public-week-6-advanced-s3-glacier-and-athena)
-- [AWS Learn In Public Week 5, S3](https://www.harrisgeo.me/blogs/aws-learn-in-public-week-5-s3)
