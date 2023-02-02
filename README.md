@@ -22,7 +22,7 @@ const Harris: Person = {
 ## Recent articles:
 - [Squashing and renaming commits with git rebase](https://harrisgeo.me/squashing-commits-with-git-rebase)
 - [I moved my website to Notion](https://harrisgeo.me/i-moved-my-website-to-notion)
-- [Hexagonal Architecture: A High Level Overview](https://www.harrisgeo.me/blogs/hexagonal-architecture-a-high-level-overview)
+- [Hexagonal Architecture: A High Level Overview](https://www.harrisgeo.me/hexagonal-architecture-a-high-level-overview)
 - [Understanding The SQS Redrive Policy](https://www.harrisgeo.me/understanding-the-sqs-redrive-policy)
 - [AWS Learn In Public Week 9, CloudFormation And CloudFront](https://www.harrisgeo.me/aws-learn-in-public-week-9-cloudformation-and-cloudfront)
 - [AWS Learn In Public Week 8, Elastic Beanstalk](https://www.harrisgeo.me/aws-learn-in-public-week-8-elastic-beanstalk)
