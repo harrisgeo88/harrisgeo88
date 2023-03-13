@@ -10,7 +10,7 @@ const Harris: Person = {
   title: 'Senior Software Engineer 👨🏻‍💻',
   code: ['React', 'Node', 'TypeScript', 'Go', 'Python'],
   enjoys: ['Coding 💻', 'Blogging ✍', 'Running 🏃', 'Traveling 🛩'],
-  funFact: 'I have been to 40 countries 🌍'
+  funFact: 'I have been to 40+ countries 🌍'
 }
 ```
 
