@@ -7,9 +7,9 @@
 ```typescript
 const Harris: Person = {
   location: 'London, England 🇬🇧',
-  title: 'Senior Software Engineer 👨🏻‍💻',
+  title: 'Principal Software Engineer 👨🏻‍💻',
   code: ['React', 'Node', 'TypeScript', 'Go', 'Python'],
-  enjoys: ['Coding 💻', 'Blogging ✍', 'Running 🏃', 'Traveling 🛩'],
+  enjoys: ['Coding 💻', 'Skateboarding 🛹', 'Running 🏃', 'Traveling 🛩'],
   funFact: 'I have been to 40+ countries 🌍'
 }
 ```
